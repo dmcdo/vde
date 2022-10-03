@@ -1,0 +1,13 @@
+{
+	"architecture": "sparc",
+	"flags": {
+		"machine": "SS-20",
+		"drive": "file=hdd.qcow2,format=qcow2",
+		"m": "500M",
+		"nographic": null,
+		"net": [
+			"user,hostfwd=tcp::10022-:22",
+			"nic"
+		]
+	}
+}
