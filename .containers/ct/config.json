@@ -1,4 +1,5 @@
 {
+	"name": "ct",
 	"architecture": "sparc",
 	"flags": {
 		"machine": "SS-20",
